@@ -3,7 +3,7 @@
 This project uses MediaPipe to detect hand and face landmarks and alert the driver if they are using their mobile phone while driving.
 
 <a href=""><img src="without_phone.png" width="40%" alt="Image 1"></a>
-<a href=""><img src="alert.png" width="40%" alt="Image 2"></a>
+<a href=""><img src="with_phone.png" width="40%" alt="Image 2"></a>
 
 ## Setup
 
