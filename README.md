@@ -32,6 +32,6 @@ Run the streamlit application:
 
 - `streamlit run streamlit_app.py`
 
-By pressing on `Start`, it will start detecting the in realtime.
+By pressing on `Start`, it will start detecting the distracted driver in realtime.
 
 If you want to stop the live streaming, press `End` button
