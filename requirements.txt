@@ -2,4 +2,3 @@ mediapipe
 opencv-python
 streamlit
 playsound
-winsound
