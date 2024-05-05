@@ -2,8 +2,8 @@
 
 This project uses MediaPipe to detect hand and face landmarks and alert the driver if they are using their mobile phone while driving.
 
-<a href=""><img src="without_phone.png" width="40%" alt="Image 1"></a>
-<a href=""><img src="with_phone.png" width="40%" alt="Image 2"></a>
+<a href=""><img src="distracted_driver_without_phone.png" width="40%" alt="Image 1"></a>
+<a href=""><img src="distracted_driver_with_phone.png" width="40%" alt="Image 2"></a>
 
 ## Setup
 
@@ -28,14 +28,10 @@ Install the required libraries by running:
 
 ### 4. Run the Application
 
-Run the main application file:
+Run the streamlit application:
 
-- `python main.py`
+- `streamlit run streamlit_app.py`
 
-This will open your camera and detect if you are talking on phone or not. It will also play an alert sound if it detects that you are using phone.
+By pressing on `Start`, it will start detecting the in realtime.
 
-### 5. Quit the Application
-
-To quit the application, press the 'q' key on your keyboard.
-
-Note: Make sure you have a webcam connected to your computer for the application to work properly.
+If you want to stop the live streaming, press `End` button
